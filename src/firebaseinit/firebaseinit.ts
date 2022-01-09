@@ -6,12 +6,12 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC3gpNDCtjPOvTTK2obvgVQCzh7VeJ61V0",
-  authDomain: "clone-pop.firebaseapp.com",
-  projectId: "clone-pop",
-  storageBucket: "clone-pop.appspot.com",
-  messagingSenderId: "258145241027",
-  appId: "1:258145241027:web:5bcd7a96551f80d8399f76",
+  apiKey: "AIzaSyB4RHlYiJ5_TFDazNJOOoUBooVFPO05T4o",
+  authDomain: "fir-c2ea0.firebaseapp.com",
+  projectId: "fir-c2ea0",
+  storageBucket: "fir-c2ea0.appspot.com",
+  messagingSenderId: "832503528421",
+  appId: "1:832503528421:web:e827f55557411d2b968d0c",
 };
 
 // Initialize Firebase
